@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SudoBrunoAPP.iml" filepath="$PROJECT_DIR$/SudoBrunoAPP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SudokuConsole.iml" filepath="$PROJECT_DIR$/SudokuConsole.iml" />
     </modules>
   </component>
 </project>
