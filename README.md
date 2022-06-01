@@ -15,3 +15,11 @@ In order to place the numbers, just fill in the coordinates given in the grid.
 
 
 ----- Have fun! -----
+
+* Author: Bruno Pascaretta Guerra.
+
+Master branch build status: <img alt="GitHub Workflow Status (branch)" src="https://img.shields.io/github/workflow/status/pascaretta5/SudokuConsole/CI/master">
+
+* Preview of the Game:
+
+![gamesample](/Screenshots/gamesample.jpg)
